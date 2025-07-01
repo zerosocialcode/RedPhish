@@ -1,7 +1,7 @@
 
 # RedPhish: Professional Security Toolkit
 
-(<a href="https://ibb.co/993s2gpW"><img src="https://i.ibb.co/bgRzLm6X/diagram-1.png" alt="diagram-1" border="0"></a>)
+<a href="https://ibb.co/993s2gpW"><img src="https://i.ibb.co/bgRzLm6X/diagram-1.png" alt="diagram-1" border="0"></a>
 
 RedPhish is an advanced, modular framework designed for penetration testers and security researchers. It streamlines website cloning, credential harvesting, and secure public exposure through industry-standard tunneling services.
 
